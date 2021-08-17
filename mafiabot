@@ -40,9 +40,9 @@ _set_bot () {
     echo "    Starting MafiaBot    "
     echo "
                           ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
-                          ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔╝
+      BLACK MAFIA         ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔╝
                           ║║║║║╠╣║╔╝╔║║╣╠╣║╔╗║║║║║
-                          ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚╝
+                          ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚+
     "
 
     python3 ./setup/updater.py ./requirements.txt requirements.txt
